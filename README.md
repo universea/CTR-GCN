@@ -2,14 +2,12 @@
 
 # PaddleVideo
 
-## News
-
-- 🔥🔥🔥 [2021 CCF BDCI Figure Skating Action Recognition Competition](https://www.datafountain.cn/competitions/519) with 100 thousand bonus is in progress ! :tada: PaddleVideo provides baseline model [ST-GCN](https://github.com/PaddlePaddle/PaddleVideo/blob/develop/docs/zh-CN/model_zoo/recognition/stgcn.md), and related tutorials [AI Studio projects](https://aistudio.baidu.com/aistudio/projectdetail/2417717), [video course](https://www.bilibili.com/video/BV1w3411172G).
-
 ## Introduction
 
 ![python version](https://img.shields.io/badge/python-3.7+-orange.svg) ![paddle version](https://img.shields.io/badge/PaddlePaddle-2.0-blue)
 
+You should install paddlenlp before using:
+pip install paddlenlp
 
 PaddleVideo is a toolset for video recognition, action localization, and spatio temporal action detection tasks prepared for the industry and academia. This repository provides examples and best practice guildelines for exploring deep learning algorithm in the scene of video area. We devote to support experiments and utilities which can significantly reduce the "time to deploy". By the way, this is also a proficiency verification and implementation of the newest PaddlePaddle 2.0 in the video field.
 
